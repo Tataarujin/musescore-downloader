@@ -36,6 +36,10 @@ This is absolutely not acceptable, and the only purpose is to profit from steali
 
 There is an article on their website: [Score download becomes a part of the Pro subscription](https://musescore.com/groups/improving-musescore-com/discuss/5044610)
 
+And then there's another thing that is absolutely NOT acceptable: threatening the original author of this software, @Xmader, by a head of strategy of Muse Group, to report him to Chinese authorities and to help them physically extract @Xmader and deport him to China. All for using Musescore's already available API and being critical of CCP.
+
+My personal request: boycott Muse Group in any way possible.
+
 ## Installation
 
 ### CLI Usage
